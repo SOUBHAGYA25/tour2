@@ -118,7 +118,7 @@ nav{
     color: rgb(227, 95, 183);
 }
 .container1{
-    background:rgba(0,0,0,.4) url(./img/tour.4.avif);
+    background:rgba(0,0,0,.4) url(./tour.4.avif);
     background-blend-mode:darken;
     background-repeat: no-repeat;
     background-size:cover;
